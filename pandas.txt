@@ -1,0 +1,44 @@
+Pandas is a core library for data manipulation, data cleaning and data preprocessing.
+
+What is data manipulation??
+We are performing the operations on the data present in the dataset.
+EX: filtering, aggregration, removing,adding etc.
+
+How we will gather a data?
+1. Data can be available in repo(kaggle)
+2. Gather a data by performing the experiment.
+3. Databases
+4. datawarehouse
+5. cloud storage
+6. distributed storage
+7. website(scrapping) etc
+
+There is a problem with the data-
+1. Not in a proper structure.
+2. It is not a clean data
+3. There can be many outliers
+4. Missing values etc
+To avoid this we do data cleaning
+
+Data preprocessing-
+Making changes in the data before processing.
+
+
+Pandas divided into..3 parts.... 1. Data Manipulation, 2. Data cleaning, 3. EDA
+
+
+We will perform manipulation, cleaning, pre-processing in a faster way using pandas because, pandas uses 2 types of data structures. 
+1. Data frame - If we are having more than one row or more than one column that will be a data frame. 
+2. Data series or series data- If we are having only a single row or or only a single column. That will be a data series
+
+
+Dataset-->It is nothing but a tabular structure, it has rows and columns. 
+Each row is called as a observation / record. 
+Each column is called has attribute / features.
+
+syntax: 
+    import pandas as pd
+
+import-keyword
+pandas-library name
+pd- alias
