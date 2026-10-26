@@ -1,0 +1,10 @@
+Data Cleaning-
+Gathering data from different resources so..
+1.Data is not a proper structure.
+2. There might be missing values
+3.There can be outliers 
+
+-so the main of the data cleaning is that we need to make it machine 
+understanding data. 
+The machine only understands numbers, so we need to convert it to 
+numbers.
